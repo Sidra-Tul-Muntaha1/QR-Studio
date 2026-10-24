@@ -1,4 +1,4 @@
-# 💜 QR Studio
+<img width="1214" height="1295" alt="image" src="https://github.com/user-attachments/assets/89e2f7ef-cc8b-4763-b01f-19ccbf755c7b" /><img width="1214" height="1295" alt="image" src="https://github.com/user-attachments/assets/8dadd88a-dd64-43ea-b893-2de36150978b" /><img width="1214" height="1295" alt="image" src="https://github.com/user-attachments/assets/a5a67d88-76cc-44c9-a814-9b28a7818596" /># 💜 QR Studio
 
 ### Create. Customize. Save. Share.
 
@@ -58,8 +58,6 @@ Screens included in the project:
 5. History Screen
 6. Saved QR Codes Screen
 7. Success Screen
-
-> Screenshots will be added here as the project showcase is completed.
 
 ---
 
@@ -151,4 +149,3 @@ This project represents my continued learning and growth in Flutter application 
 
 ---
 
-*Built with Flutter and 💜*
